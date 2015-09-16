@@ -1,0 +1,19 @@
+{
+  "name": "polymer-array-property",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ek/polymer-array-property",
+  "authors": [
+    "Eric Knudtson <knudtson@ge.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "~1.1.3"
+  }
+}
